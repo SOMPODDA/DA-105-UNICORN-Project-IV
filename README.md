@@ -8,6 +8,7 @@ Let's suppose that the Unicorn is a family business and is owned by 2 stakeholde
 
 Your task is to analyze the data, find interesting insights and identify weak areas and opportunities for Unicorn to boost its business growth.
 
+   ![UNICORN E-Commerce](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/64105057-e713-41ab-b157-c56f0a538ab6)
 
 
 This Capstone project will combine what you have learned in the preceding courses on SQL, Spreadsheets, and Tableau. 
