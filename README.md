@@ -13,6 +13,8 @@ Your task is to analyze the data, find interesting insights and identify weak ar
 
 This Capstone project will combine what you have learned in the preceding courses on SQL, Spreadsheets, and Tableau. 
 
+    https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/CapstonePROJECT_data-1/UnicornPresentation?publish=yes
+
 The project includes three main parts, each with their own subtasks:
 
 Data Exploration SQL
