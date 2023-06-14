@@ -1,11 +1,4 @@
 # DA-105-UNICORN-Business-Analysis-with (SQL, Spreadsheet & TABLEAU BI Tool) 
-![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/ba890af4-b018-48a0-90bd-f4a88900ef1e)
-![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/8165a7f2-d899-4aea-8e03-f2e438d9672c)
-![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/c93965ea-6a50-4d68-b8be-aacba1949572)
-![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/a93c2b54-f6aa-4ab7-9307-e16fddc606e1)
-
-
-
 
 The online sector has been slowly eating up market share in the past two decades. E-commerce platforms like Unicorn allow people to buy products online: from books, toys, clothes, and shoes to food, furniture, and other household items. The following dataset includes Unicorn sales data from the years 2015-2018.
 
@@ -33,6 +26,10 @@ The project includes three main parts, each with their own subtasks:
 Learning Outcomes:
 
 1. Master the tech skills companies want
+![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/8165a7f2-d899-4aea-8e03-f2e438d9672c)
 2. Manipulate and prepare data for analysis
+![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/ba890af4-b018-48a0-90bd-f4a88900ef1e)
 3. Explore data visually at multiple levels to find insights and create a compelling story
+![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/a93c2b54-f6aa-4ab7-9307-e16fddc606e1)
 4. Implement your SQL, Spreadsheets, and Tableau knowledge in a real-life project
+![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/c93965ea-6a50-4d68-b8be-aacba1949572)
