@@ -21,6 +21,10 @@ The project includes three main parts, each with their own subtasks:
 2. Data Cleaning using Spreadsheets
 3. Getting Insights using Tableau
 
+
+      ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/84f83acd-08b7-475b-913f-d3d7b8e4bd77)
+
+
 Learning Outcomes:
 
 1. Master the tech skills companies want
