@@ -17,8 +17,6 @@ This Capstone project will combine what you have learned in the preceding course
 
 The project includes three main parts, each with their own subtasks:
 
-Data Exploration SQL
-
-Data Cleaning using Spreadsheets
-
-Getting Insights using Tableau
+1. Data Exploration SQL
+2. Data Cleaning using Spreadsheets
+3. Getting Insights using Tableau
