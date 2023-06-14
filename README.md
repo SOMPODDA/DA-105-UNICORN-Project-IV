@@ -1,4 +1,5 @@
-# DA-105-UNICORN-Business-Analysis-with (SQL, Spreadsheet & TABLEAU BI Tool)    
+# DA-105-UNICORN-Business-Analysis-with (SQL, Spreadsheet & TABLEAU BI Tool)  ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/5a8092df-8e46-45fb-a3e8-a7094d0a41c6)
+    
  
 ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/f989f515-2c72-4ecc-a169-32bdf3bf7a8e)
 
