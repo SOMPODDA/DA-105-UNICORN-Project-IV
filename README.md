@@ -1,4 +1,4 @@
-# DA-105-UNICORN-Business-Analysis-(SQL/Spreadsheet/TABLEAU)  ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/5a8092df-8e46-45fb-a3e8-a7094d0a41c6)
+# DA-105-UNICORN-Business-Analysis-(SQL_Spreadsheet_TABLEAU)  ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/5a8092df-8e46-45fb-a3e8-a7094d0a41c6)
 
     
  
