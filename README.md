@@ -24,9 +24,6 @@ The project includes three main parts, each with their own subtasks:
 3. Getting Insights using Tableau
 
 
-      ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/586cb3b7-1203-4bf9-b459-95c2ec6384db)
-
-
 Learning Outcomes:
 
 1. Master the tech skills companies want
