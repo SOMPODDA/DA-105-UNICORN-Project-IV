@@ -17,12 +17,14 @@ This Capstone project will combine what you have learned in the preceding course
 
 The project includes three main parts, each with their own subtasks:
 
+   ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/7349bf86-efab-4439-84af-8233d368e2bb)
+
 1. Data Exploration SQL
 2. Data Cleaning using Spreadsheets
 3. Getting Insights using Tableau
 
 
-      ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/84f83acd-08b7-475b-913f-d3d7b8e4bd77)
+      ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/586cb3b7-1203-4bf9-b459-95c2ec6384db)
 
 
 Learning Outcomes:
