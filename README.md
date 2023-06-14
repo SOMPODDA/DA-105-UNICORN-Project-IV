@@ -1,4 +1,4 @@
-# DA-105-UNICORN-Business-Analysis-with (SQL, Spreadsheet & TABLEAU BI Tool) 
+# DA-105-UNICORN-Business-Analysis-with (SQL, Spreadsheet & TABLEAU BI Tool) ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/3b6678de-1cf7-4019-a0b8-3074ed8fa20b)
  
 ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/f989f515-2c72-4ecc-a169-32bdf3bf7a8e)
 
@@ -8,12 +8,11 @@ The online sector has been slowly eating up market share in the past two decades
 
 Let's suppose that the Unicorn is a family business and is owned by 2 stakeholders who are very invested in their business. They already have a small data analytics team but want to expand it significantly over the next few months. They see you as a candidate for a DA position and provide you with a sample dataset from their sales data.
 
-![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/8264cd81-64fb-4b4b-8982-bc9fe2d29c3d)
+
 
 Your task is to analyze the data, find interesting insights and identify weak areas and opportunities for Unicorn to boost its business growth.
 
-   
-![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/3b6678de-1cf7-4019-a0b8-3074ed8fa20b)
+![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/8264cd81-64fb-4b4b-8982-bc9fe2d29c3d)   
 
 This Capstone project will combine what you have learned in the preceding courses on SQL, Spreadsheets, and Tableau. 
 
