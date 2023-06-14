@@ -1,8 +1,9 @@
 # DA-105-UNICORN-Business-Analysis-with (SQL, Spreadsheet & TABLEAU BI Tool) 
  
 ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/3b6678de-1cf7-4019-a0b8-3074ed8fa20b)
-![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/32a99c79-4b3e-4a20-9615-85237d217a5b)
+![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/f989f515-2c72-4ecc-a169-32bdf3bf7a8e)
 
+![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/8264cd81-64fb-4b4b-8982-bc9fe2d29c3d)
 
 The online sector has been slowly eating up market share in the past two decades. E-commerce platforms like Unicorn allow people to buy products online: from books, toys, clothes, and shoes to food, furniture, and other household items. The following dataset includes Unicorn sales data from the years 2015-2018.
 
