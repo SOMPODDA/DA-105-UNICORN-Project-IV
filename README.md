@@ -1,4 +1,4 @@
-# DA-105-UNICORN-Business-Analysis-Project-IV
+# DA-105-UNICORN-Business-Analysis-with TABLEAU BI Tool
 
 The online sector has been slowly eating up market share in the past two decades. E-commerce platforms like Unicorn allow people to buy products online: from books, toys, clothes, and shoes to food, furniture, and other household items. The following dataset includes Unicorn sales data from the years 2015-2018.
 
@@ -20,3 +20,10 @@ The project includes three main parts, each with their own subtasks:
 1. Data Exploration SQL
 2. Data Cleaning using Spreadsheets
 3. Getting Insights using Tableau
+
+Learning Outcomes:
+
+1. Master the tech skills companies want
+2. Manipulate and prepare data for analysis
+3. Explore data visually at multiple levels to find insights and create a compelling story
+4. Implement your SQL, Spreadsheets, and Tableau knowledge in a real-life project
