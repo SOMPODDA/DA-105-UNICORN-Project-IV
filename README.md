@@ -38,3 +38,5 @@ Learning Outcomes:
 2. Manipulate and prepare data for analysis  
 3. Explore data visually at multiple levels to find insights and create a compelling story  
 4. Implement your SQL, Spreadsheets, and Tableau knowledge in a real-life project 
+
+   ![image](https://github.com/SOMPODDA/DA-105-UNICORN-Business-Analysis-Project-IV/assets/70188796/a1b803c4-96e8-4e3f-a1fb-dbc5b88fe93a)
